@@ -8,9 +8,9 @@ If you want to get in touch wih me, emailing me at eladio at caritos dot com is 
 
 A website I made for my tennis friends to keep track of our tennis matches.  The site is built using the [ktor](https://ktor.io) framework using the [kotlin](https://kotlinlang.org/) programming language.  I'm using [Freemarker](https://freemarker.apache.org/) as my templating engine.  The site uses [Tailwind CSS](https://tailwindcss.com/) to make it look appealing.  I'm using [Postgresql](https://www.postgresql.org/) for my database.  
 
-### [Student Information System](https://en.wikipedia.org/wiki/Student_information_system)
+### [school](https://github.com/caritos/frog-flip)
 
-I'm developing a website to help administrators and teachers manage the students at [Holy Trinity Academy of Calamba](https://www.holytrinityacademyofcalamba.com/).  
+I'm developing a [student information system](https://en.wikipedia.org/wiki/Student_information_system) to help administrators and teachers manage the students at [Holy Trinity Academy of Calamba](https://www.holytrinityacademyofcalamba.com/).  
 
 
 <!--
