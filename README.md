@@ -1,6 +1,6 @@
 👋 Hi, I'm Eladio Caritos, a freelance full-stack developer based in Long Island with a passion for building digital services. I have a knack for all things launching products, from planning and designing all the way to solving real-life problems with code.
 
-If you want to get in touch wih me, emailing me at eladio at caritos dot com is best.
+If you want to get in touch wih me, dm me at https://mastodon.social/@caritos is best.
 
 # 🔭 I’m currently working on ...
 
